@@ -1,0 +1,11 @@
+{
+  "name": "server-sent-events-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "mode": "module",
+  "license": "MIT",
+  "dependencies": {
+    "polka": "^0.5.2",
+    "sirv": "^1.0.7"
+  }
+}
